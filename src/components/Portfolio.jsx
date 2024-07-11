@@ -10,25 +10,25 @@ const Portfolio = () => {
       title: "Bookify",
       id: 1,
       src: bookstore,
-      link: "https://example.com/bookify",
+      link: "https://github.com/piyuxh01/Bookstore",
     },
     {
       title: "IOS-Gallery",
       id: 2,
       src: gallery,
-      link: "https://example.com/ios-gallery",
+      link: "https://github.com/piyuxh01/IOS-Gallery-Application",
     },
     {
       title: "Hospital management system",
       id: 3,
       src: hospital,
-      link: "https://example.com/hospital",
+      link: "https://github.com/piyuxh01/Hospital-Management-System",
     },
     {
       title: "BlogMe",
       id: 4,
       src: blog,
-      link: "https://example.com/blogme",
+      link: "https://github.com/piyuxh01/Blog-app",
     },
   ];
 
